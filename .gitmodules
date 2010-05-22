@@ -1,0 +1,6 @@
+[submodule "gtkextra"]
+	path = gtkextra
+	url = http://github.com/bogner/gtkextra.git
+[submodule "imaplib2"]
+	path = imaplib2
+	url = http://github.com/bogner/imaplib2.git
